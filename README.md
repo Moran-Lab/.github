@@ -1,4 +1,4 @@
-# Welcome to Anan Moran's Lab
+# Welcome to the Anan Moran Lab
 At Anan Moran Lab, we are focused on understanding how taste-related information, such as taste identity and palatability, are being coded in the brain's taste system, in what way this code changes with experience, and where it is stored. One simple example of such an experience-related change is when you get a severe malaise following consuming a novel dish. People, as well as animals, learn to avoid recently consumed food, a memory that may last for the entire lifespan of the subject. This, and other taste-related behaviors adapted to rodents, are being used in the lab to study the way large distributed ensembles of neurons are dynamically coding taste and decision information to drive adaptive behavior.    
 
 
